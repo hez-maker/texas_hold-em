@@ -1,2 +1,2 @@
 # texas_hold-em
-This is a ML project on texas hold'em
+This is an ML project on texas hold'em
